@@ -3,6 +3,7 @@
 *.iml
 
 target/
+data/
 
 # Compiled class file
 *.class
